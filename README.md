@@ -7,7 +7,7 @@
 4. joblib
 5. sklearn
 6. xgboost
-7. Models for all 1,204 miRNAs, download it from https://scbb.ihbt.res.in/miRbiom-webserver/SC/Source_code_miRbiom-v-1.0.tar.gz (extract it into the parent folder)
+7. Models for all 1,204 miRNAs, download it from https://scbb.ihbt.res.in/miRbiom-webserver/SC/xgb_all.tar.gz (extract it into the parent folder)
 
 ==================
 *File description*
