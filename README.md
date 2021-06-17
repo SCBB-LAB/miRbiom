@@ -1,4 +1,15 @@
 ===============
+*Description*
+===============
+miRbiom: Machine-Learning on Bayesian Causal Nets of RBP-miRNA interactions successfully predicts miRNA profiles
+
+The user needs to provide the RNA-seq or any expression profiling experiment data for any given condition. This data is run through the trained XGBoosting models which generates a relative expression scores for various miRNAs capturing the potential expression profile of the miRNAs for the given condition. For validation purpose, a benchmarking benchmarking script is also provided in the benchmarking directory where the user can provide their actual experimental profiling data for the miRNAs and compare the predicted profile. 
+
+The miRNA profile prediction system has been implemented as a webserver at https://scbb.ihbt.res.in/miRbiom-webserver/. 
+
+
+
+===============
 *Requirements*
 ===============
 1. Python2.7
