@@ -1,6 +1,4 @@
 #!user/bin/python
-import sys, os, math
-sys.path.append('/home/scbb/.local/lib/python2.7/site-packages')
 import pandas as pd
 import numpy as np
 from joblib import load
