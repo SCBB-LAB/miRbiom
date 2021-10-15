@@ -26,7 +26,7 @@ for mirna in mirna_list:
 	try:
 		expression=[float(d[i]) for i in gene_list]
 		expression1=[float(d[i]) for i in gene_list if float(d[i])>0]
-		h=int(len(expression1)/2)
+		h=int(len(expression1))
 		if h>=f:
 			loaded_model = load(open('xgb_all/'+mirna.split(",")[0]+'_final_input_new.sav', 'rb'))
 			exp=[0]+expression
