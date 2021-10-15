@@ -61,7 +61,7 @@ python validation.py test.csv[User defined input]
 
 Mature miRNAs expression prediction module (xgb.py) gives output in following format [ example1_out.txt]:
 
-hsa-let-7a-2-3p[mature miRNAs ID] , 10.608787[Predicted expression value] , MI0000061[mirBase ID] , MIRT058253[mirTarBase ID]
+hsa-let-7a-2-3p[mature miRNAs ID] , 10.608787[Predicted expression value] , MI0000061[mirBase ID] , MIRT058253[mirTarBase ID], logarithm[log2]
 
 Benchmarking script (validation.py) gives output in following format:
 
