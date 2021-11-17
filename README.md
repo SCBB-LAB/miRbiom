@@ -69,3 +69,14 @@ Root Mean Square Error (RMSE):  1.0670394705731083 [RMS Error value]
 Mean Absolute Percentage Error (MAPE): 8.943718334276047 [MAP Error value]
 Accuracy(%):  91.06 [Accuracy value]
 
+
+==================
+*Citation*
+==================
+
+
+Citation: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258550
+
+miRbiom: Machine-Learning on Bayesian Causal Nets of RBP-miRNA interactions successfully predicts miRNA profiles
+
+DOI: https://doi.org/10.1371/journal.pone.0258550
