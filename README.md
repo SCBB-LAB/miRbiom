@@ -74,9 +74,4 @@ Accuracy(%):  91.06 [Accuracy value]
 *Citation*
 ==================
 
-
-Citation: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258550
-
-miRbiom: Machine-Learning on Bayesian Causal Nets of RBP-miRNA interactions successfully predicts miRNA profiles
-
-DOI: https://doi.org/10.1371/journal.pone.0258550
+Citation: Pradhan UK, Sharma NK, Kumar P, Kumar A, Gupta S, Shankar R (2021) miRbiom: Machine-learning on Bayesian causal nets of RBP-miRNA interactions successfully predicts miRNA profiles. PLoS ONE 16(10): e0258550. https://doi.org/10.1371/journal.pone.0258550
